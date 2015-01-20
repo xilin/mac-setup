@@ -8,6 +8,8 @@ The following command will install Python 2.7 and any dependencies required (it 
 
 When finished, you should get a summary in the terminal. Running `$ which python` should output `/usr/local/bin/python`.
 
+> Note: You may need to restart your shell in order to see the correct python.
+
 It also installed [Pip](https://pypi.python.org/pypi/pip) (and its dependency [Setuptools](https://pypi.python.org/pypi/setuptools)), which is the package manager for Python. Let's upgrade them both:
 
     $ pip install --upgrade setuptools
