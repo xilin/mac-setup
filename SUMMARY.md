@@ -22,6 +22,7 @@
 * [MySql](MySql/README.md)
 * [CPlusPlus](Cpp/README.md)
 * [Java](Java/README.md)
+    * [Maven](Java/maven.md)
 * [Scala](Scala/README.md)
 * [Ruby](Ruby/README.md)
     * [RubyGems](Ruby/RubyGems.md)
